@@ -1,12 +1,12 @@
-<h1 align="center">Franco Galarza</h1>
-<h2 align="center">Full Stack Developer</h2>
+<h1 align="center">Franco Agustín Galarza</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Sobre mi</h3>
-<h4 align="left>¿Quien soy?</h4>
+<h4 align="left">¿Quien soy?</h4>
 <p align="left">Soy desarrollador web Full Stack con más orientación hacia el backend. Me destaco en la resolucion de problemas, correccion de errores y mi adaptabilidad ya sea a nuevas tecnologias como a equipos</p>
-<h4 align="left>¿Que hago?</h4>
+<h4 align="left">¿Que hago?</h4>
 <p align="left">Actualmente me dedico a adquirir experiencias desarrollando proyectos mientras continuo con mi carrera universitaria. Me encanta el aprendizaje continuo y más aún si es practicando</p>
-<h4 align="left>Objetivos</h4>
+<h4 align="left">Objetivos</h4>
 <p align="left">Apunto a encontrar nuevas experiencias que me permitan crecer en lo personal y profesional, experiencias que me lleven a la mejor versión de mi</p>
 
 <h3 align="left">Contactame: </h3>
